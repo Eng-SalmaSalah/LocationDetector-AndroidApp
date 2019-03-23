@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LocationDetector</string>
+    <string name="GetLocation">Get Location</string>
+    <string name="sendLocation">Send Location</string>
+    <string name="service_not_available">service not available</string>
+    <string name="invalid_lat_long_used">invalidlocation</string>
+    <string name="ShowMap">Show Map</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
